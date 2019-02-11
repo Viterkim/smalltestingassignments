@@ -1,4 +1,4 @@
-# Testing2 intro to bla
+# Testing2 intro unit tests
 Made by Viktor Kim Christiansen
 
 https://github.com/datsoftlyngby/soft2019spring-test/raw/master/Assignments/02%20Unit%20Testing%20Assignment.pdf
