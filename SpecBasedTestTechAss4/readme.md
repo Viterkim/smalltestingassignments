@@ -55,8 +55,7 @@ Replaced in both `AccountTest` & `CreditCardTest`
 
 -----
 ## 7 
-### Document how equivalence partitions, boundary values, decision tables and state transition models have
-been used and applied in the creation of the data-driven tests
+### Document how equivalence partitions, boundary values, decision tables and state transition models have been used and applied in the creation of the data-driven tests
 Decision tables is basically a way to map out every outcome for a scenario, so a good example of that in a test is `Customer.getDiscount()` tested in the top of the `CreditCardTest.java`. 
 
 Boundary values/Equivalence partitioning are used in the sense that we want a value to be EXACTLY something, given from a boundary/range of balances. So a balance of everything between 0-500 gives X.
