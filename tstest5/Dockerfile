@@ -4,4 +4,4 @@ WORKDIR /root
 RUN npm i -g typescript
 RUN npm install
 RUN tsc
-CMD ["npm", "run", "cov"]
+CMD ["npm", "start"]
